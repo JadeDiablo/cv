@@ -1,0 +1,78 @@
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 90px auto 50px auto;
+  color: #8bd5cb;
+  font-size: 5rem;
+  font-family: 'Emblema One', cursive;
+}
+
+h2 {
+  color: #8bd5cb;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bot {
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 350px;
+  left: 490px;
+}
+
+.credit {
+  font-size: 0.5em;
+}
+
+.mid {
+
+}
+
+.icon-left {
+  float: left;
+  margin: 0 30px 10px 0;
+  width: 24%;
+}
+
+.icon-right {
+  float: right;
+  margin: 0 0 10px 30px;
+  width: 24%;
+}
+
+.skill-icon {
+  width: 70%;
+  position: relative;
+  left: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.top {
+  background-color: #edfffa;
+  position: relative;
+  padding-top: 90px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 470px;
+}
